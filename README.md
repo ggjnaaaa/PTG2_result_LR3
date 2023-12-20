@@ -15,6 +15,6 @@
 5. При попадании в цель из оружия, должны начисляться очки, в зависимости от размера и
 времени жизни цели. Очки должны отображаться на экране.
 
-Код: https://ggjnaaaa.github.io/PTG2_LR3/
+Результат: https://ggjnaaaa.github.io/PTG2_result_LR3/
 
-Работа была загружна через git-LFS, полный проект доступен на Google Drive: https://drive.google.com/file/d/144MPxSYZcgQmFENBwycPjfYP6ox8y8b8/view?usp=drive_link
+Код: https://ggjnaaaa.github.io/PTG2_LR3/
