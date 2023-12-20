@@ -17,4 +17,4 @@
 
 Результат: https://ggjnaaaa.github.io/PTG2_result_LR3/
 
-Код: https://ggjnaaaa.github.io/PTG2_LR3/
+Код: https://github.com/ggjnaaaa/PTG2_LR3
